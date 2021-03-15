@@ -1,7 +1,8 @@
 #      Initial NFT Offerings
 
 
-## essodong@pm.me hello@chronchain.io
+## essodong@pm.me 
+## hello@chronchain.io
 
 ## Friday 12 March 2021
 
@@ -33,13 +34,13 @@ Incentives for INO participation can be :
     Informative :
     an NFT holder will have information about any modification or update of the company roadmap before those information going public.
 
-    Governance :
+    governmental :
     an NFT holder will have full governance points for voting or governance proposals.
 
-    Airdrop :
+    Airdropping :
     an NFT holder will receive airdrop tokens every week.
 
-    Refunds :
+    Refundable :
     an NFT holder can receive a verifiable claim for refunds.
 
 ## 3- The Scenario 
