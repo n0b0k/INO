@@ -1,13 +1,13 @@
 #      Initial NFT Offerings
 
 
-## hello@chronchain.io
+## essodong@pm.me hello@chronchain.io
 
 ## Friday 12 March 2021
 
 #### Abstract
 
-Tokenimics have long played a big role in the success or failure of token-based companies.
+Tokenomics have long played a big role in the success or failure of token-based companies.
 And it drives some companies to be more focused on token design than the shipment of the product or the value creation of the company. And sometimes participants abandon the projects or the companies fail to deliver.
 
 We believe INO or Initial NFT Offering can help protect the interest and incentivize tokensale participants.
@@ -20,7 +20,7 @@ Instead, they are wishing that the $0.01 token goes to $1 in a matter of days an
 This kind of pressure, unfortunately, drives some companies to over-promise and deliver poor products or worse to not deliver at all.
 
 
-## 2- Proposal
+## 2- The Proposal
 
 As tokensale participants have different expectations, we are proposing an adaptative mintable token contract.
 The contract will follow an ERC721 standard with rules, participants can add or remove before minting the token against their funds to ensure that the company will follow their roadmap and will deliver.
@@ -28,7 +28,7 @@ The contract will follow an ERC721 standard with rules, participants can add or 
 /* A non-fungible token with metadata to increase or decrease your incentives according to the participant behavior like feedback on the products, inviting new adopters, and collaborating with the project team. 
 /*
 
-Incentives for INO participation can be  : 
+Incentives for INO participation can be : 
 
     Informative :
     an NFT holder will have information about any modification or update of the company roadmap before those information going public.
